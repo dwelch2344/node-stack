@@ -30,7 +30,8 @@
     "mean-logger": "latest",
     "bower": "latest",
     "jugglingdb": "latest",
-    "jugglingdb-mongodb": "latest"
+    "jugglingdb-postgres": "latest",
+    "bcrypt": "latest"
   },
   "devDependencies": {
     "supertest": "latest",
